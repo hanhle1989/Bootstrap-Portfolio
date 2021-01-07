@@ -1,0 +1,29 @@
+.navbar-brand {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.container-xl {
+    padding: 0px;
+}
+
+.col {
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+
+.row {
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom:10px;
+}                                
+
+.img-fluid {
+    padding-bottom: 10px;
+}
+
+.col-footer{
+    font-size: 12px;
+    padding-bottom: 20px;
+  }
