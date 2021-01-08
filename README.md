@@ -3,7 +3,7 @@ This is my fine art portfolio which contains an Home/About Me page, Portfolio pa
 
 **Links to the deployed application:**
 [GitHub Repository](https://github.com/hanhle1989/Bootstrap-Portfolio)
-[Deployed Application](https://hanhle1989.github.io/Bootstrap-Portfolio/index.html)
+and [Deployed Application](https://hanhle1989.github.io/Bootstrap-Portfolio/index.html)
 
 
 
