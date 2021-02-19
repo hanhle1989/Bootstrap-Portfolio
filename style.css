@@ -39,6 +39,10 @@
     padding: 0px;
 }
 
+.page-title {
+    text-align: center;
+}
+
 /*Set margin, value and text position for all columns and rows*/
 .col {
     text-align: left;
