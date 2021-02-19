@@ -1,7 +1,36 @@
 /* This is the Navbar*/
-.navbar-brand {
+.hero-image{
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    background: url(./images/boho-drawing.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: black;
+    text-align: center;
+}
+
+.container h1{
+    font-size: 100px;
+}
+
+.container h1 span{
+    border: 10px solid black;
+    padding: 15px 30px;
+    padding-bottom: 30px;
+    display: inline-block;
+}
+
+.btn{
+    font-size: 18px;
     font-weight: bold;
-    font-size: 30px;
+    color: black;
 }
 
 
@@ -19,6 +48,7 @@
 
 .row {
     margin: auto;
+    margin-top: 20px;
     padding-top: 10px;
     padding-bottom:10px;
 }                                
@@ -41,15 +71,11 @@
 }
 
 /*This is the footer*/
-.col-footer{
-    font-size: 12px;
+.copyright{
+    padding-top: 20px;
     padding-bottom: 20px;
-}
-
-#copyright{
     text-align: center;
-}
-
-#profiles{
-    text-align: right;
+    color: white;
+    background: url(./images/footer.jpg) no-repeat center;
+    background-size: cover;
 }
